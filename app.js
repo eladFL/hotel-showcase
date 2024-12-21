@@ -45,7 +45,7 @@ const HotelShowcase = () => {
   return (
     <div className="max-w-4xl mx-auto p-6" dir="rtl">
       <header className="text-center mb-12">
-        <h1 className="text-3xl font-bold mb-4">דנה אהובתי אלו המלונות הכי מוצלחים שמצאתי לנו</h1>
+        <h1 className="text-3xl font-bold mb-4"> דנה אהובתי אלו המלונות הכי מוצלחים שמצאתי לנו בביימי</h1>
         <p className="text-gray-600">לחצי על המלון כדי לראות את האתר שלו</p>
       </header>
 
